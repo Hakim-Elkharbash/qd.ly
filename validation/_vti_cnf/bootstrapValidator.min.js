@@ -1,0 +1,4 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|22 Aug 2014 20:55:10 -0000
+vti_extenderversion:SR|12.0.0.4518
+vti_backlinkinfo:VX|edit_area.php edit_store.php list_area.php user_permission.php import_alb_state.php list_move_orders.php list_orders.php add_store.php list_state.php list_orders_shipper_view.php list_orders_wide_view.php add_city.php edit_state.php edit_user.php import_change_state.php list_change_state.php list_orders_shipper_wide_view.php add_state.php import_order.php settings.php add_order.php edit_order.php import_update_orders.php list_change_alb.php list_operation_log.php add_area.php edit_city.php edit_password.php list_city.php contact_us.php list_operation_wide_view.php print_new_order.php list_store.php list_users.php import_locker.php add_user.php list_orders_view.php list_report.php list_report_wide_view.php retrieve_password.php

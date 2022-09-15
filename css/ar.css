@@ -1,0 +1,135 @@
+body{
+	background:white;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+.top-links{
+	font-size:15px !important;
+    color:white !important;
+
+}
+
+
+.link_det{
+	font-family:"Simplified Arabic",Arial, Helvetica, sans-serif !important;
+	font-size:16px !important;
+	text-align:right !important;
+	direction:rtl !important;
+ 	text-shadow: 0 0 0 !important;
+	color:fuchsia !important;
+	text-decoration:none !important;
+}
+.link_det:hover{
+	color:blue !important;
+    text-shadow: 0 0 0 !important;
+    
+     
+    
+}
+
+
+.devoloed {
+	color: #738080;
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+}
+.libyapages {
+	color: #000 !important;
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	text-decoration:none !important;
+}
+.libyapages:hover{
+	color:#738080 !important;
+}
+
+.news_op{
+ color:aqua !important;
+ font-family:"Simplified Arabic";
+ font-size:18px;
+ font-weight:bold
+}
+
+.news_op:hover{
+ color:silver !important;
+}
+
+.hot_link {
+	color:#738080;
+	font-family:"Simplified Arabic";
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration:none;
+}
+.hot_link:hover{
+	color:white;
+}
+.news_scroll{
+	font-family:Simplified Arabic;font-size:18px; 
+	font-weight:bold; 
+	color:aqua;
+	width:300px
+}
+
+
+.copyright{
+    font-family: tahoma;
+	font-size: 11px;
+	color:#000 !important;
+    text-align: center
+}
+
+.custom-search-form{
+    margin-top:5px;
+}
+
+
+.faq {
+	font-family:"Simplified Arabic" !important;
+	font-size: 18px !important;
+	font-weight:bold !important;
+	font-weight:bold !important;
+	color:fuchsia !important;
+	font-weight:normal !important; 
+	text-decoration:none !important;
+ 	text-shadow: 0 0 0 !important;
+
+}
+.faq:hover{
+	color:blue !important;
+ 	text-shadow: 0 0 0 !important;
+}
+
+.hot_links_black {
+	font-family: tahoma !important;
+	font-size: 11px !important;
+	color:blue !important;
+	text-decoration:none !important;
+	font-weight:normal !important; 
+ 	text-shadow: 0 0 0 !important;
+ 	
+
+}
+.hot_links_black:hover{
+	color:fuchsia !important;
+ 	text-shadow: 0 0 0 !important;
+}
+
+.panel{
+    padding: 15px;
+    background-color:#f4f1f1 !important;
+    border:1px gray sold !important; 
+    text-align: center !important;
+}
+
+.fields-name{
+    font-family:"Simplified Arabic",Arial, Helvetica, sans-serif !important;
+	font-size:16px !important;
+	padding-bottom: 5px !important;
+}
+.navbar-header{
+float: left !important;
+}
